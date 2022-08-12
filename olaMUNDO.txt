@@ -1,2 +1,4 @@
 Olá, mundão!!!!
 Eu sou o Gilberto Laske Junior!
+Vamos aprender fundamentos do git?
+Claro!
